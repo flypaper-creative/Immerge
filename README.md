@@ -59,6 +59,8 @@ This will:
 - Save output to the `output` directory
 - Run until you press Ctrl+C
 
+For detailed usage instructions, examples, and best practices, see [USAGE.md](USAGE.md).
+
 ### Advanced Options
 
 ```bash
@@ -162,7 +164,7 @@ If you encounter rate limits, increase the `--delay` parameter to add more time 
 
 ## License
 
-[Add your license here]
+MIT License - See LICENSE file for details.
 
 ## Contributing
 
